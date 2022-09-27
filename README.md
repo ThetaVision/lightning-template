@@ -23,8 +23,7 @@ Click on [<kbd>Use this template</kbd>](https://github.com/papydur-thetavision/l
 
 ## 📌  Introduction
 
-change a thing
-
+change 
 <!-- ## Table Of Contents
 
 - [📌&nbsp;&nbsp;Introduction](#introduction)
